@@ -1,0 +1,101 @@
+# Validation
+
+95 browser checks passed.
+
+- No broken assets
+- One H1
+- Section links valid
+- HTML language ka
+- Every translated text ka
+- Every translated attribute ka
+- No overflow ka 360
+- No overflow ka 390
+- No overflow ka 640
+- No overflow ka 768
+- No overflow ka 1024
+- No overflow ka 1440
+- No overflow ka 1920
+- Procedure CTA ka 0
+- Procedure selected ka 0
+- Focus restored ka 0
+- Procedure CTA ka 1
+- Procedure selected ka 1
+- Focus restored ka 1
+- Procedure CTA ka 2
+- Procedure selected ka 2
+- Focus restored ka 2
+- Procedure CTA ka 3
+- Procedure selected ka 3
+- Focus restored ka 3
+- Procedure CTA ka 4
+- Procedure selected ka 4
+- Focus restored ka 4
+- Procedure CTA ka 5
+- Procedure selected ka 5
+- Focus restored ka 5
+- FAQ single open ka 0
+- FAQ single open ka 1
+- FAQ single open ka 2
+- FAQ single open ka 3
+- FAQ single open ka 4
+- Social placeholder ka 0
+- Social placeholder ka 1
+- HTML language en
+- Every translated text en
+- Every translated attribute en
+- No overflow en 360
+- No overflow en 390
+- No overflow en 640
+- No overflow en 768
+- No overflow en 1024
+- No overflow en 1440
+- No overflow en 1920
+- Procedure CTA en 0
+- Procedure selected en 0
+- Focus restored en 0
+- Procedure CTA en 1
+- Procedure selected en 1
+- Focus restored en 1
+- Procedure CTA en 2
+- Procedure selected en 2
+- Focus restored en 2
+- Procedure CTA en 3
+- Procedure selected en 3
+- Focus restored en 3
+- Procedure CTA en 4
+- Procedure selected en 4
+- Focus restored en 4
+- Procedure CTA en 5
+- Procedure selected en 5
+- Focus restored en 5
+- FAQ single open en 0
+- FAQ single open en 1
+- FAQ single open en 2
+- FAQ single open en 3
+- FAQ single open en 4
+- Social placeholder en 0
+- Social placeholder en 1
+- Language persisted
+- Empty name error
+- Whitespace name error
+- Bad phone error
+- Error translates while dialog open
+- Course required
+- Demo success
+- No network submit
+- Data cleared
+- Cancel clears
+- Slider moves
+- Keyboard slider
+- Mobile menu open
+- Mobile navigation closes
+- Mobile escape focus
+- Sticky mobile booking
+- 200 percent text fits
+- Only language persisted
+- No runtime errors
+- No external dependencies
+- No fake contact href
+- Storage denied works
+
+Tested using local file URLs and bundled Chromium; GitHub Pages deployment has not been performed. All asset paths are relative. The SimpleWeb.ge external attribution link was not network-verified.
